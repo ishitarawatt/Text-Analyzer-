@@ -25,4 +25,4 @@ with open("analysis.txt", "w") as f:
         f.write(f"{word}: {count}\n")
     f.write(f"Sentence Lengths: {sentence_lengths}\n")
 
-print("✅ Text analysis completed & saved to analysis.txt")
+print(" Text analysis completed & saved to analysis.txt")
